@@ -1,0 +1,5 @@
+|Código|Descriçao|Quantidade|
+| 1B| BICICLETA | 3 |
+| 1C| CARRO DE BRINQUEDO | 4 |
+| 123| lucas com numero |130|
+| 12345| teste se funciona | 90 |
